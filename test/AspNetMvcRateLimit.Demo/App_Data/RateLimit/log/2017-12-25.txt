@@ -1,0 +1,3 @@
+﻿
+config load failed! 
+Could not find file 'D:\Github\Source\Repos\AspNetMvcRateLimit\test\AspNetMvcRateLimit.Demo\App_Data\RateLimit\config.json'.

@@ -1,0 +1,5 @@
+﻿2017-12-25-15-52-16	::1	get:/home/about	anon has been blocked, quota 2/5m exceeded by 3. Blocked by rule *:/home/about .
+2017-12-25-15-52-33	::1	get:/home/about	anon has been blocked, quota 2/5m exceeded by 4. Blocked by rule *:/home/about .
+2017-12-25-15-52-34	::1	get:/home/about	anon has been blocked, quota 2/5m exceeded by 5. Blocked by rule *:/home/about .
+2017-12-25-15-52-34		get:/favicon.ico	anon has been blocked, quota 6/1m exceeded by 7. Blocked by rule * .
+2017-12-25-15-57-35	::1	get:/home/about	anon has been blocked, quota 2/5m exceeded by 3. Blocked by rule *:/home/about .
