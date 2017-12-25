@@ -1,2 +1,2 @@
 # AspNetMvcRateLimit
-ASP.NET MVC rate limiting module
+ASP.NET MVC rate limiting module.
